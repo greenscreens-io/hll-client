@@ -1,0 +1,10 @@
+10;;;                        QUERYSESSIONS
+2;A;;                        DISCONENCT SESSION A
+1;A;;                        CONENCT SESSION A
+8;;36;                       COPY PRESENTATION TO STRING
+7;;36;                       QUERY CUSRSOR LOCATION
+40;;453;                   SET CURSOR
+3;TESTING789@F;   SEND KEY
+40;;453;                   SET CURSOR
+3;QSECOFR@F;       SEND KEY
+2;A;
